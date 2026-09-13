@@ -7,5 +7,5 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halinh2726&theme=dark&hide_border=true" alt="Halinh2726's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duy_Anh1475&theme=dark&hide_border=true" alt="Duy_Anh1475's streak" />
 </div>
